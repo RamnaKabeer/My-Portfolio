@@ -1,6 +1,6 @@
 import React from "react";
 import { Download } from "lucide-react";
-import hero from '../assets/hero1.jpeg';
+import hero from '../assets/hero.jpeg';
 
 export const HeroSection = () => {
   return (
